@@ -4,6 +4,7 @@
   "version": "2.0.0",
   "author": "Ruben Harutyunyan <vagr9k@gmail.com>",
   "dependencies": {
+    "braces": "^3.0.2",
     "font-awesome": "^4.7.0",
     "gatsby": "^2.4.3",
     "gatsby-image": "^2.0.41",
@@ -29,6 +30,7 @@
     "gatsby-source-filesystem": "^2.0.33",
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.19",
+    "immutable": "^3.8.2",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "netlify-cms": "^2.9.1",
@@ -41,6 +43,9 @@
     "react-md": "^1.10.2",
     "react-share": "^2.4.0",
     "react-twitter-widgets": "^1.7.1",
+    "redux": "^2.0.0",
+    "slate": "^0.47.3",
+    "typescript": "^3.4.5",
     "url-join": "^4.0.0"
   },
   "devDependencies": {
